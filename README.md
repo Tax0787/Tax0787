@@ -7,5 +7,5 @@
 [ForkYourSource](https://github.com/Tax0787/buymacbookfor--AnyOne)
 
 # about me (BZ3, top level user)
-disciple of [@2sssg](https://github.com/2sssg]
+disciple of [2sssg](https://github.com/2sssg]
 해석 : [2sssg](https://github.com/2sssg)님의 제자
