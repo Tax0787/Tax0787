@@ -8,4 +8,4 @@
 
 # about me (BZ3, top level user)
 disciple of [@2sssg](https://github.com/2sssg)
-해석 : [s2sssg](https://github.com/2sssg)님의 제자
+해석 : [@2sssg](https://github.com/2sssg)님의 제자
